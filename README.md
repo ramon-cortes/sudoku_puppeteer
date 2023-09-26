@@ -6,4 +6,4 @@
 
 I think that was all
 
-Oh no, you will also need a "ss" subdirectory for the screenshots it takes
+Oh no, you will also need an "ss" subdirectory for the screenshots it takes
