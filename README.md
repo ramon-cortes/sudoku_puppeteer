@@ -7,3 +7,5 @@
 I think that was all
 
 Oh no, you will also need an "ss" subdirectory for the screenshots it takes
+
+AAAAnd add the "start" and "type" lines from package.json into your own package.json file
